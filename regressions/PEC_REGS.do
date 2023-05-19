@@ -1,4 +1,3 @@
-*Parental Extended Coverage - MAIN RESULTS
 foreach x in privhi pubhi insured group nongroup {
 
 di "Full Sample"

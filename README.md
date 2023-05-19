@@ -1,6 +1,6 @@
 # Revisiting SCHIP and Extended Parental Coverage - The Effect of Public Policy on Health Insurance Coverage for Young Adult
 
-**Abstract
+**Abstract**
 
 Replicating Levine, McKnight, and Heep (2011), I assess the impact of public policy on the health insurance coverage rates of teenagers and young adults.
 I examine two policy efforts, the expansion of Medicaid by states to low-income teenagers following the introduction of SCHIP in 1997 and individual efforts by

@@ -1,6 +1,6 @@
 # Revisiting SCHIP and Extended Parental Coverage - The Effect of Public Policy on Health Insurance Coverage for Young Adult
 
-Year-long research project undertaken at George Mason University as part of optional requirements for a Bachelor of Science in Economics. Supervised by Dr. Jason Dunick, Professor of Economics. Completed in 2023. 
+Year-long undergraduate thesis undertaken at George Mason University as part of optional requirements for a Bachelor of Science in Economics. Supervised by Dr. Jason Dunick, Professor of Economics. Completed in 2023. 
 Coded primarily in R and STATA, final document written in LaTeX. 
 
 **Abstract**

@@ -1,4 +1,3 @@
-*Main SCHIP Regressions
 foreach x in  insured pubhi privhi pub_ng privonly group nongroup{
 
 di "Full Sample"
